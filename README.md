@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan Barboza
+# 👋 Greetings from Alan,
 
 Software Architect with **15+ years of experience** building scalable applications and cloud-native solutions.
 
