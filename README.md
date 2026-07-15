@@ -20,5 +20,8 @@ I'm Alan Barboza, a Software Architect with **15+ years of experience** building
 
 - LinkedIn: https://www.linkedin.com/in/alanbarboza/
 
+## Some stats
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=alanbarboza&layout=compact&langs_count=6&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=alanbarboza&layout=compact&langs_count=6&theme=highcontrast)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=alanbarboza&rank_icon=github&show_icons=true&include_all_commits=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=alanbarboza&rank_icon=github&show_icons=true&include_all_commits=true&theme=highcontrast)
