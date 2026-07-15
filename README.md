@@ -1,11 +1,25 @@
-### Greetings 👋
+# 👋 Hi, I'm Alan Barboza
 
-I'm **Alan**, formed at Computer Science and working as Software Architect as 15 experience years at consulting.
+Software Architect with **15+ years of experience** building scalable applications and cloud-native solutions.
 
-- 🏡 from 🇧🇷 at 🇧🇷
-- :bowtie: I may assist you as Java, Android, iOS and DevOps engineer
+### 🚀 Main Technologies
 
-Look at my careers steps in [LinkedIn](https://www.linkedin.com/in/alanbarboza/)
+- ☕ Java & Spring Boot
+- ☁️ AWS
+- 🐳 Docker & Kubernetes
+- ⚙️ DevOps & CI/CD
+- 🗄️ PostgreSQL, MongoDB & Cassandra
+- 📡 Kafka & RabbitMQ
+
+### 🌎 About Me
+
+- 🇧🇷 Based in Brazil
+- 💡 Passionate about software architecture, cloud infrastructure, and high-performance systems.
+
+### 📫 Connect
+
+- LinkedIn: https://www.linkedin.com/in/alanbarboza/
+
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alanbarboza&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
