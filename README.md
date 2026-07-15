@@ -1,6 +1,6 @@
-# 👋 Greetings from Alan,
+# 👋 Greetings,
 
-Software Architect with **15+ years of experience** building scalable applications and cloud-native solutions.
+I'm Alan Barboza, a Software Architect with **15+ years of experience** building scalable applications and cloud-native solutions.
 
 ### 🚀 Main Technologies
 
