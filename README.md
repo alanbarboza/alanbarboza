@@ -5,11 +5,11 @@ I'm Alan Barboza, a Software Architect with **15+ years of experience** building
 ### 🚀 Main Technologies
 
 - ☕ Java & Spring Boot
-- ☁️ AWS
-- 🐳 Docker & Kubernetes
+- ☁️ AWS, GCP, OCI
+- 🐳 Kubernetes, Docker & Helm
 - ⚙️ DevOps & CI/CD
-- 🗄️ PostgreSQL, MongoDB & Cassandra
-- 📡 Kafka & RabbitMQ
+- 🗄️ PostgreSQL, MySQL, Oracle, MongoDB & Cassandra
+- 📡 Kafka, RabbitMQ, ZeroMQ
 
 ### 🌎 About Me
 
