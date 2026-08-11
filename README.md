@@ -5,6 +5,7 @@ I'm Alan Barboza, a Software Architect with **15+ years of experience** building
 ### 🚀 Main Technologies
 
 - ☕ Java & Spring Boot
+- 📱 Android & Swift
 - ☁️ AWS, GCP, OCI
 - 🐳 Kubernetes, Docker & Helm
 - ⚙️ DevOps & CI/CD
