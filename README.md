@@ -7,7 +7,7 @@ I'm Alan Barboza, a Software Architect with **15+ years of experience** building
 - ☕ Java & Spring Boot
 - 📱 Android & Swift
 - ☁️ AWS, GCP, OCI
-- 🐳 Kubernetes, Docker & Helm
+- 🐳 Kubernetes, Docker, Helm & Terraform
 - ⚙️ DevOps & CI/CD
 - 🗄️ PostgreSQL, MySQL, Oracle, MongoDB & Cassandra
 - 📡 Kafka, RabbitMQ, ZeroMQ
